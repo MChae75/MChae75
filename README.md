@@ -39,7 +39,7 @@ Recognized after two prior internships for strong performance and AI research ex
 - Implemented and compared 11 AI models combining:  
   &nbsp;&nbsp;&nbsp;&nbsp;• Architectures: MLP, LSTM, GRU  
   &nbsp;&nbsp;&nbsp;&nbsp;• Algorithms: DQN, PPO, Supervised Learning, Rule-based
-- Developed a simulation envirnoment with python for model evaluation
+- Developed a simulation environment with python for model evaluation
 - Developed a top-performing Poker AI with a **97% win rate** against other models.
 - **Tech stack**: Python, Pytorch, Flutter, Deep Learning
 
