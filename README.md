@@ -66,6 +66,6 @@ Recognized after two prior internships for strong performance and AI research ex
 
 ## 📬 Contact Me
 
-- minjaec@utexas.edu
+- minjae.c75@gmail.com
 - 📄 [Resume (PDF)](https://github.com/user-attachments/files/20962597/Resume_25.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/minjaechae)
