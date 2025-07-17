@@ -12,8 +12,8 @@ Currently seeking a **Software Developer** position.
 [Poker AI training Report](https://github.com/user-attachments/files/20962603/Poker.Report.-.Google.Docs.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b5c5a97-03f7-488f-93bd-3c23897ff6be" width="42%"/>
-  <img src="https://github.com/user-attachments/assets/5575ad82-5bb0-42d4-91a1-442ef8cd9696" width="56%"/>
+  <img src="https://github.com/user-attachments/assets/5b5c5a97-03f7-488f-93bd-3c23897ff6be" height="350px"/>
+  <img src="https://github.com/user-attachments/assets/5575ad82-5bb0-42d4-91a1-442ef8cd9696" height="350px"/>
 </p>
 
 ---
