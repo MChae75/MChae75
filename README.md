@@ -5,20 +5,28 @@ I'm **Minjae Chae**, a versatile AI Software Developer and an MS Data Science st
 Currently seeking a **Software Developer** position.
 
 ---
+## 🌟 My New Homepage & AI Stock Platform [Addfly.me](https://addfly.me/)
+🎥 [Watch Demo on YouTube](https://youtu.be/VCPuwA87pi0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39918649-ba01-4916-8017-1ef09c9f1586" height="500px" />
+  <img src="https://github.com/user-attachments/assets/f9f97794-25a5-4554-a3fa-a9a42787594c" height="500px" />
+</p>
 
-## 🃏 My Recent Full Stack AI Poker Application  
+
+---
+## 🃏 My Full Stack AI Poker Application  
 🎥 [Watch Demo on YouTube](https://youtu.be/VCPuwA87pi0)
 
 [Poker AI training Report](https://github.com/user-attachments/files/20962603/Poker.Report.-.Google.Docs.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b5c5a97-03f7-488f-93bd-3c23897ff6be" height="350px"/>
-  <img src="https://github.com/user-attachments/assets/5575ad82-5bb0-42d4-91a1-442ef8cd9696" height="350px"/>
+  <img src="https://github.com/user-attachments/assets/5b5c5a97-03f7-488f-93bd-3c23897ff6be" height="400px"/>
+  <img src="https://github.com/user-attachments/assets/5575ad82-5bb0-42d4-91a1-442ef8cd9696" height="400px"/>
 </p>
 
 ---
 
-## 🌐 My Recent Full Stack Spring Boot Web Application  
+## 🌐 My Full Stack Spring Boot Web Application  
 🎥 [Watch Demo on YouTube](https://youtu.be/0vk3TJ7s7Sc)
 
 <p align="center">
@@ -31,7 +39,14 @@ Currently seeking a **Software Developer** position.
 
 ## 📝 Resume Highlights
 
-**Software Developer – Fungrep** (Aug 2024 – Present)  
+**Founder & Lead Developer – Fungrep** (July 2025 – Present)  
+Founded AI-powered financial news platform analyzing real-time data with PyTorch ML models, automating summaries for retail and institutional investors.
+
+**🚀 Addfly.me
+- Deployed an article analysis Chrome extension by JavaScript and Grok API, delivering curated information from resources to US stock investors. Information includes summary of the resource, related stock product, field, and effect of the resource to the stock product.
+- Released  a service providing AI selected news, including headline, summary and link to the full article, enabling user subscriptions for Amazon SES email newsletters on AWS EC2 with  Python, React, and PostgreSQL.
+
+**Software Developer – Fungrep** (Aug 2024 – July 2025)  
 Recognized after two prior internships for strong performance and AI research expertise.
 
 **♠️ Poker Game & AI Model Development**  
@@ -67,5 +82,5 @@ Recognized after two prior internships for strong performance and AI research ex
 ## 📬 Contact Me
 
 - minjae.c75@gmail.com
-- 📄 [Resume (PDF)](https://github.com/user-attachments/files/20962597/Resume_25.pdf)
+- 📄 [Resume .pdf](https://github.com/user-attachments/files/21959367/Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/minjaechae)
