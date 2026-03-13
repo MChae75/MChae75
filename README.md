@@ -1,11 +1,11 @@
 # 👋 Minjae Chae - Software Developer
 
 Hi, welcome to my GitHub page.  
-I'm **Minjae Chae**, a versatile AI Software Developer and an MS Data Science student at the **University of Texas at Austin**.  
-Currently seeking a **Software Developer** position.
+I'm **Minjae Chae**, a versatile AI Software Developer and an Alumni of **University of Texas at Austin**.  
+I am a **AI Engineer** at **Hunt Oil Company**.
 
 ---
-## 🌟 My New Homepage & AI Stock Platform [Addfly.me](https://addfly.me/)
+## 🌟 My Homepage & AI Stock Platform [Addfly.me](https://addfly.me/)
 🎥 [Watch Demo on YouTube](https://youtu.be/VCPuwA87pi0)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/39918649-ba01-4916-8017-1ef09c9f1586" height="500px" />
